@@ -1,4 +1,3 @@
 js_scroll
 =========
-
-Exercise for the CodingDojo's Javascript course.  See the learning platform to see how you should improve the codes.  There are several bugs with the codes which are intentional. :)
+Forked this code from Coding Dojo Javascript course to fix the bugs which were 1)Not accounting for the space when the curser would move 2)Not showing the last letter of the string
